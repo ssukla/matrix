@@ -1,6 +1,6 @@
 $(document).ready(function () {
 	$("body").click(function(event) {
-		window.open("http://geekprank.com/blue-death/","_self");
+		window.open("https://ssukla.github.io/mavi-ekran/index.html","_self");
 	});	
 	$('body').keydown(function(e) {
 		if((e.which == 27) || (e.which == 13)) {	//Enter Esc
